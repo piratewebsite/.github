@@ -37,7 +37,7 @@ PIRATE gives you the tools to easily edit your homepage, update your profile, an
 
 <div align="center">
   <a href="https://pirateweb.org">
-    <img src="https://pirateweb.org/public/images/logo/logoImage.svg" alt="Logo" width="30%" height="auto">
+    <img src="https://pirateweb.org/images/logo/logoImage.svg" alt="Logo" width="30%" height="auto">
   </a>
   </div>
 <div align="center">
