@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://pirateweb.org">
-    <img src="public/images/logo/logoImage.svg" alt="Logo" width="30%" height="auto">
-  </a>
-  </div>
+
 
 <div align="center">
 
