@@ -49,6 +49,7 @@ Setup takes about 4 minutes and <strong><i>requires a valid email address</i></s
 ## 🏴‍☠️ Web Features
 
 - Next-Gen Social Media and Video Blogging Platform.
+- Custom YouTube Video Player built througout
 - User-installable and configurable PWA (Progressive Web Apps)
 - Add / Modify / Delete pages and posts - no limitations.
 - Edit website settings, seo settings, logos, etc all from within the CMS.
