@@ -5,9 +5,9 @@
   </a>
   </div>
   
-<div align="center">
- # <strong align="center">You're the Captain now!</strong>
-</div>
+
+# <strong align="center">You're the Captain now!</strong>
+
 
 
 
