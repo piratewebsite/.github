@@ -68,7 +68,6 @@ Setup takes about 4 minutes and <strong><i>requires a valid email address</i></s
 - [Pagefind](https://pagefind.app/) static search library integration
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) svg icon component
 - [Keystatic CMS](https://keystatic.com) is integrated into and controls all aspects of your site.
-- PiRATE Social features a full version of BlueSky built in
 
 
 
