@@ -1,9 +1,11 @@
 
-
 <div align="center">
-
-
-
+  <a href="https://pirateweb.org">
+    <img src="../public/images/logo/logoImage.svg" alt="Logo" width="30%" height="auto">
+  </a>
+  </div>
+  
+<div align="center">
   <strong align="center" style="font-size:30px">You're the Captain now!</strong>
 </div>
 
