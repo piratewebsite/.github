@@ -6,7 +6,7 @@
   </div>
   
 <div align="center">
-  <strong align="center" style="font-size:30px">You're the Captain now!</strong>
+ # <strong align="center">You're the Captain now!</strong>
 </div>
 
 
