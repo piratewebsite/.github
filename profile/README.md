@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://pirateweb.org">
-    <img src="public/images/logo/logoImage.svg" alt="Pirate CMS Logo" width="200" height="200">
+    <img src="../public/images/logo/logoImage.svg" alt="Pirate CMS Logo" width="200" height="200">
   </a>
   <h1>You're the Captain now!</h1>
   <h3>Own Your Content • Control Your Platform • Sail the Open Web</h3>
