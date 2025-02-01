@@ -62,7 +62,7 @@ Setup takes about 4 minutes and <strong><i>requires a valid email address</i></s
 ## 🏴‍☠️ Preview
 
 <div align="center">
-  <img src="public/images/pwa/screenshot.png" alt="Pirate CMS Dashboard" width="600">
+  <img src="../public/images/pwa/screenshot.png" alt="Pirate CMS Dashboard" width="600">
 </div>
 
 ### 🚀 Modern Foundation
@@ -97,12 +97,12 @@ Setup takes about 4 minutes and <strong><i>requires a valid email address</i></s
 <br />
 <h3><em><i>T R A K</i></em> &nbsp; Technology Stack</h3>
 PIRATE is built on industry leading technologies, and is designed from the ground up, using the best, most secure and modern development technology stack available today: <h3 style="font-size:30px;"><strong><i></i></strong></h3>
-<a href=""><img alt="" role="presentation" aria-hidden="true" src="public/images/partners/typescript-logo.webp" width="24%" height="auto" /></a>
-<a href="https://react.dev"><img alt="React Logo" role="presentation" aria-hidden="true" src="public/images/partners/react-logo.webp" width="24%" height="auto" /></a>
-<a href="https://astro.build"><img alt="Astro Logo" role="presentation" aria-hidden="true" src="public/images/partners/Astro-logo.webp" width="24%" height="auto" /></a>
+<a href=""><img alt="" role="presentation" aria-hidden="true" src="../public/images/partners/typescript-logo.webp" width="24%" height="auto" /></a>
+<a href="https://react.dev"><img alt="React Logo" role="presentation" aria-hidden="true" src="../public/images/partners/react-logo.webp" width="24%" height="auto" /></a>
+<a href="https://astro.build"><img alt="Astro Logo" role="presentation" aria-hidden="true" src="../public/images/partners/Astro-logo.webp" width="24%" height="auto" /></a>
 <!-- <a href="https://netlify.com"><img alt="Netlify Logo" role="presentation" aria-hidden="true" src="public/images/partners/netlify-logo.webp" width="14%" height="auto" /></a>
 <a href="https://github.com"><img alt="GitHub Logo" role="presentation" aria-hidden="true" src="public/images/partners/github-logo.webp" width="15%" height="auto" /></a> -->
-<a href="https://keystatic.com"><img alt="Keystatic Logo" role="presentation" aria-hidden="true" src="public/images/partners/keystatic-logo.webp" width="24%" height="auto" /></a>
+<a href="https://keystatic.com"><img alt="Keystatic Logo" role="presentation" aria-hidden="true" src="../public/images/partners/keystatic-logo.webp" width="24%" height="auto" /></a>
 
 
 <br /><br />
@@ -159,15 +159,15 @@ pnpm clean
 <table>
   <tr>
     <td align="center" width="30%">
-      <img src="public/images/partners/netlify-logo.webp" width="30%" alt="Netlify"><br>
+      <img src="../public/images/partners/netlify-logo.webp" width="30%" alt="Netlify"><br>
       <a href="https://app.netlify.com/start/deploy?repository=https://github.com/piratewebsite/pirate">Deploy to Netlify</a>
     </td>
     <td align="center" width="30%">
-      <img src="public/images/partners/github-logo.webp" width="30%" alt="GitHub"><br>
+      <img src="../public/images/partners/github-logo.webp" width="30%" alt="GitHub"><br>
       <a href="https://github.com/piratewebsite/pirate/generate">Use Template</a>
     </td>
     <td align="center" width="30%">
-      <img src="public/images/partners/vercel-logo.webp" width="30%" alt="Vercel"><br>
+      <img src=".//public/images/partners/vercel-logo.webp" width="30%" alt="Vercel"><br>
       <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpiratewebsite%2Fpirate">Deploy to Vercel</a>
     </td>
   </tr>
